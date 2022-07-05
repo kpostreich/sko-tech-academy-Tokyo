@@ -1,0 +1,30 @@
+site_name: SKO Technical Academy -  Tokyo
+nav:
+  - Home: index.md
+  - Session 1 - Mock POC - IBM WebSphere Automation: Mock_POC_IBM_WebSPhere_automation.md
+  - Session 2 - Deep Dive into IBM Transfromation Advisor and application assessments for modernization: Mock_POC_Application_Assessments.md
+  - Session 3 - Mock POC - Operational Modernization of WebSphere applications: Mock_POC_Operational_Modernization.md
+  - Session 4 - Mock POC - Runtime Modernization of WebSphere applications: Mock_POC_Runtime_Modernization.md
+  - Team Environments:
+      - Team 01: team01.md
+      - Team 02: team02.md 
+      - Team 03: team03.md 
+      - Team 04: team04.md
+      - Team 05: team05.md
+      - Team 06: team06.md
+      - Team 07: team07.md
+      - Team 08: team08.md
+      - Team 09: team09.md
+      - Team 10: team10.md
+      - Team 11: team11.md
+      - Team 12: team12.md
+      - Team 13: team13.md
+      - Team 14: team14.md
+      - Team 15: team15.md
+      - Team 16: team16.md
+      - Team 17: team17.md
+      - Team 18: team18.md
+      - Team 19: team19.md
+      - Team 20: team20.md
+theme: readthedocs
+extra_css: ["extra.css"]
